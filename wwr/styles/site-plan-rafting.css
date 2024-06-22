@@ -7,7 +7,8 @@ body {
 :root {
     --primary-color: #424C55;
     --secondary-color: #D1CCDC;
-    --accent-color: #F5EDF0;
+    --accent1-color: #F5EDF0;
+    --accent2-color: #7F7CAF;
 
     --heading-font: 'oswald', serif;
     --paragraph-font: 'titillium', serif;
@@ -32,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 
 header {
     padding: 20px;
-    background-color: var(--accent-color);
+    background-color: var(--accent1-color);
 }
 
 p {
