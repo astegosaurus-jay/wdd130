@@ -120,7 +120,6 @@ header {
     flex-flow: column;
     padding: 5px;
     max-width: 150px;
-    max-height: auto;
     margin: auto;
     grid-row: 2;
 }
